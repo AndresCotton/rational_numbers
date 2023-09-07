@@ -10,7 +10,7 @@ This is a 22221x23 binary matrix containing the answers given by each user to ea
 ## demographic.csv
 This file is a 22221x10 matrix. It has 6 columns containing the following information: (A) id of the participant, (B) age, (C) gender, (D) educational attainment, (E) number of mathematical problems completed, (F) number of correct answers (G) total time. In every case, cells with the value “-999” indicate that the participant didn’t answer the question.
 
-- (A) Each participant is identified witha a unique id number.
+- (A) Each participant is identified with a unique id number.
 - (B) Age is indicated in years.
 - (C) The gender field has 3 possible values: “1” indicates “female”, “2” indicates “male”, “3” indicates “other”.
 - (D) The educational attainment field has 5 possible values: “1” indicates "none", “2” indicates “completed primary school”, “3”  indicates “completed secondary school”, “4” indicates “completed university degree”, “5” indicates “completed postgraduate degree”.
