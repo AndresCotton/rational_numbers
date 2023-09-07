@@ -8,7 +8,7 @@ Both datasets contain 22221 rows, each corresponding to a different participant.
 This is a 22221x23 binary matrix containing the answers given by each user to each of the 23 questions; “1” indicates a correct answer and “0” indicates an incorrect answer. The questions are stated in the article.
 
 ## demographic.csv
-This file is a 22221x10 matrix. It has 7 columns containing the following information: (A) id of the participant, (B) age, (C) gender, (D) educational attainment, (E) number of mathematical problems completed, (F) number of correct answers (G) total time. In every case, cells with the value “-999” indicate that the participant didn’t answer the question.
+This file is a 22221x10 matrix. It has 7 columns containing the following information: (A) id of the participant, (B) age, (C) gender, (D) educational attainment, (E) number of mathematical problems completed, (F) number of correct answers (G) total time. In every case, **the value “-999” indicates that the information of that cell is missing**.
 
 - (A) Each participant is identified with a unique id number.
 - (B) Age is indicated in years.
