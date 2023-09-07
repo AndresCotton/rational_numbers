@@ -18,4 +18,4 @@ This file is a 22221x10 matrix. It has 7 columns containing the following inform
 - (F) The number of correct answers can go from 1 to 23.
 - (G) Total time is reported in miliseconds.
 
-This datasets were obtained by Andrés Rieznik, Verónica C. Ramenzoni, Florencia Rocca, Carolina Londoño & Valeria Edelsztein by a Massive Online Experiment with previous informed consent.
+This datasets were obtained by Andrés Rieznik, Verónica C. Ramenzoni, Florencia Rocca, Carolina Londoño & Valeria Edelsztein and by the public communication of science group "El Gato y la Caja" via a Massive Online Experiment with previous informed consent.
