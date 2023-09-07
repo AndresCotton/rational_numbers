@@ -1,4 +1,4 @@
-# rational_numbers
+# rational_numbers_datasets
 Datasets used for the paper "**Mental representations of rational numbers: a Massive Online Experiment**".
 
 To ease the use of the provided datasets, we clarify some useful details:
