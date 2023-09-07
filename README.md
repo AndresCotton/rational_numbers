@@ -13,3 +13,5 @@ The demographics dataset has 6 columns that contain the following information: (
 - (F) Total time is reported in miliseconds.
 
 The answers dataset has 23 columns, each corresponding to one item of the questionnaire. “1” indicates a correct answer, “0” indicates an incorrect answer.
+
+This datasets were obtained by Andrés Rieznik, Verónica C. Ramenzoni, Florencia Rocca, Carolina Londoño & Valeria Edelsztein by a Massive Online Experiment with previous informed consent.
